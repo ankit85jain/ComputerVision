@@ -48,13 +48,3 @@ while True:
 #close all opencv windows open
 webcam_video_stream.release()
 cv2.destroyAllWindows()        
-
-
-
-
-
-
-
-
-
-
